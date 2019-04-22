@@ -1,4 +1,4 @@
-package com.example.koval24ipzlab02;
+package com.example.solovjn_42ipz_lab2;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
